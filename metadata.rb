@@ -1,0 +1,7 @@
+name 'delivery_local_workflow'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures delivery_local_workflow'
+long_description 'Installs/Configures delivery_local_workflow'
+version '0.1.0'
